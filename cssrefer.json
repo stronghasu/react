@@ -4,10 +4,10 @@
     "cssRefer": [
       {
         "id": 1,
-        "title": "<b>",
-        "desc": "<b> 태그는 다른 페이지 이동을 설정합니다.",
-        "desc2": "<a> 태그는 다른 페이지 이동을 설정합니다. 페이지 주소 뿐만 아니라, 메일 주소, 전화 번호 등도 연결할 수 있으며, 아이디(#) 값으로 페이지 내에서도 이동이 가능합니다.",
-        "element": "인라인구조(Inline Element)",
+        "title": "<align-content>",
+        "desc": "<align-content>속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+        "desc2": "<align-content> 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+        "element": "align-content:stretch",
         "tag": "닫는 태그 사용(<a> ~ </a>)",
         "version": "HTML4",
         "view": "밑줄과 파란색으로 표시",
